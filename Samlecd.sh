@@ -1,1 +1,1 @@
-echo "RAW original file."
+echo "new sample code test today! "
