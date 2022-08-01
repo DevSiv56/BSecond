@@ -1,1 +1,1 @@
-echo "this is update #2. Try"
+echo "this is update #2. Test merge conflict."
