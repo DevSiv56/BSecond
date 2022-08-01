@@ -1,1 +1,1 @@
-echo "sample code test today!"
+echo "new sample code test today!"
